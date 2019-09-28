@@ -1,0 +1,10 @@
+body{
+	margin-top: 8%;
+	background: url('dasar1.png');
+	background-repeat: no-repeat;
+	background-size: 100% 120%;
+}
+
+#daftar{
+	color: blue;
+}
